@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DENNIS-PC</Machine>
+    <WindowsUser>Emily</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a27c52be-d812-4969-96c9-70ae94f1e71c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Emily\Desktop\CoastalNav\CoastalNav\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>3C97D3424A10E00059FD0C0A58E2F83BE94FA82E791A93549F488A820F102454</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a27c52be-d812-4969-96c9-70ae94f1e71c_1.0.0.0_neutral__st1b4g3zj6m4c</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>a27c52be-d812-4969-96c9-70ae94f1e71c_st1b4g3zj6m4c!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>a27c52be-d812-4969-96c9-70ae94f1e71c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Emily</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-29T15:30:19.877</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\bin\Debug\CoastalNav.exe">
+      <PackagePath>CoastalNav.exe</PackagePath>
+      <Modified>2015-03-29T15:30:17.922</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\Assets\About.png">
+      <PackagePath>Assets\About.png</PackagePath>
+      <Modified>2015-03-15T17:49:58.823</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\Assets\back.png">
+      <PackagePath>Assets\back.png</PackagePath>
+      <Modified>2015-03-15T17:29:36.409</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\Assets\GPS.png">
+      <PackagePath>Assets\GPS.png</PackagePath>
+      <Modified>2015-03-15T17:46:22.908</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T06:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\Assets\moher.png">
+      <PackagePath>Assets\moher.png</PackagePath>
+      <Modified>2015-03-29T14:41:07.303</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\Assets\nav.png">
+      <PackagePath>Assets\nav.png</PackagePath>
+      <Modified>2015-03-15T17:42:43.464</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T06:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-15T19:37:45.400</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T06:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\Assets\tides.png">
+      <PackagePath>Assets\tides.png</PackagePath>
+      <Modified>2015-03-15T17:44:50.470</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\Assets\aranIsl.jpg">
+      <PackagePath>Assets\aranIsl.jpg</PackagePath>
+      <Modified>2015-03-29T15:12:03.479</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\Assets\bkground.jpg">
+      <PackagePath>Assets\bkground.jpg</PackagePath>
+      <Modified>2015-03-15T17:52:54.253</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\Assets\causeway.jpg">
+      <PackagePath>Assets\causeway.jpg</PackagePath>
+      <Modified>2015-03-29T14:31:12.996</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\Assets\coastGaurd.jpg">
+      <PackagePath>Assets\coastGaurd.jpg</PackagePath>
+      <Modified>2015-03-29T14:51:48.820</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\Assets\ireland.jpg">
+      <PackagePath>Assets\ireland.jpg</PackagePath>
+      <Modified>2015-03-18T11:23:38.915</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\Assets\Landmarks.jpg">
+      <PackagePath>Assets\Landmarks.jpg</PackagePath>
+      <Modified>2015-03-15T17:49:58.836</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\Assets\map.jpg">
+      <PackagePath>Assets\map.jpg</PackagePath>
+      <Modified>2015-03-21T16:45:25.861</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\Assets\newgrange.jpg">
+      <PackagePath>Assets\newgrange.jpg</PackagePath>
+      <Modified>2015-03-29T15:19:45.439</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-03-29T14:45:17.641</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\bin\Debug\About.xbf">
+      <PackagePath>About.xbf</PackagePath>
+      <Modified>2015-03-29T14:45:17.642</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\bin\Debug\CoastGaurd.xbf">
+      <PackagePath>CoastGaurd.xbf</PackagePath>
+      <Modified>2015-03-29T15:04:40.380</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\bin\Debug\Connaught.xbf">
+      <PackagePath>Connaught.xbf</PackagePath>
+      <Modified>2015-03-29T15:30:16.442</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\bin\Debug\GPS.xbf">
+      <PackagePath>GPS.xbf</PackagePath>
+      <Modified>2015-03-29T14:45:17.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\bin\Debug\Landmarks.xbf">
+      <PackagePath>Landmarks.xbf</PackagePath>
+      <Modified>2015-03-29T14:55:44.482</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\bin\Debug\Leinster.xbf">
+      <PackagePath>Leinster.xbf</PackagePath>
+      <Modified>2015-03-29T15:30:16.443</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-03-29T15:04:40.381</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\bin\Debug\Munster.xbf">
+      <PackagePath>Munster.xbf</PackagePath>
+      <Modified>2015-03-29T14:55:44.483</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\bin\Debug\Navigation.xbf">
+      <PackagePath>Navigation.xbf</PackagePath>
+      <Modified>2015-03-29T14:45:17.653</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\bin\Debug\Ulster.xbf">
+      <PackagePath>Ulster.xbf</PackagePath>
+      <Modified>2015-03-29T14:55:44.484</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\bin\Debug\CoastalNav.xr.xml">
+      <PackagePath>CoastalNav.xr.xml</PackagePath>
+      <Modified>2015-03-29T15:30:15.801</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Emily\Desktop\CoastalNav\CoastalNav\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-29T15:30:19.029</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

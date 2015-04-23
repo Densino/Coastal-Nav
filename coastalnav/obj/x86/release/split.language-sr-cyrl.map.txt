@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-sr-cyrl"
+"ResourceDimensions"		"language-sr-cyrl-ba"
+
+[Files]
+"C:\Users\Emily\Desktop\CoastalNav\CoastalNav\obj\x86\Release\split.language-sr-cyrl.pri"			"resources.pri"

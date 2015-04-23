@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-id"
+"ResourceDimensions"		"language-id"
+
+[Files]
+"C:\Users\Emily\Desktop\CoastalNav\CoastalNav\obj\x86\Release\split.language-id.pri"			"resources.pri"

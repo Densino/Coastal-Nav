@@ -1,0 +1,30 @@
+﻿<Page
+    x:Class="CoastalNav.Ulster"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CoastalNav"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF113426" Offset="0.169"/>
+                <GradientStop Color="#FF2ED491" Offset="0.819"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Button x:ConnectionId='1' x:Name="btnBack" Content="" HorizontalAlignment="Left" Margin="75,54,0,0" VerticalAlignment="Top" Height="65" Width="61"                       BorderThickness="0">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/back.png"/>
+            </Button.Background>
+        </Button>
+        <Image x:Name="imgCauseway" HorizontalAlignment="Left" Height="337" VerticalAlignment="Top" Width="550" Source="Assets/causeway.jpg" Margin="771,234,0,0"/>
+        <TextBlock x:Name="giantsHeading" HorizontalAlignment="Left" Margin="456,57,0,0" TextWrapping="Wrap" Text="Giants Causeway" VerticalAlignment="Top" Foreground="#FF458900" FontSize="75" FontFamily="Curlz MT" FontWeight="Bold"/>
+        <TextBlock x:Name="txtblock2" HorizontalAlignment="Left" Margin="78,234,0,0" TextWrapping="Wrap" Text="On the coast of county Antrim, the Giant's Causeway is one of the most popular and unique tourist attractions in Ireland. Resulting from a volcanic eruption over 50 million years ago, the Giant's Causeway is a forty thousand interlocking hexagonal basalt columns. That said some of the columns have four, five or even seven sides. It truly is the oddest natural site you have ever seen. So unique that the Giant's Causeway was mentioned in ancient myths and legends.
+        Legend had it that the ancient Irish warrior Fionn Mac Cumhail built the causeway to walk to Scotland to fight his Scottish enemy Benandonner." VerticalAlignment="Top" Width="688" Height="457" FontSize="25"/>
+
+
+    </Grid>
+</Page>
+
